@@ -4,7 +4,7 @@
   "description": "startup of testing via mocha and chai",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -w --compilers coffee:coffee-script/register"
+    "test": "mocha"
   },
   "author": {"name": "Peter Lüderitz"},
   "contributors": [
