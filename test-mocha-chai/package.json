@@ -1,0 +1,22 @@
+{
+  "name": "test-mocha-chai",
+  "version": "0.0.1",
+  "description": "startup of testing via mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {"name": "Peter Lüderitz"},
+  "contributors": [
+  	{"name": "Giang Ta"},
+  	{"name": "Martin Tolkiehn"},
+  	{"name": "Lars Menzel"}
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.2.0",
+    "chai-immutable": "^1.5.3",
+    "mocha": "^2.3.4"
+  }
+}
